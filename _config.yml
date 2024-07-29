@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Md. Shahrukh Islam"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "CSE graduate from BUET and currently a software engineer in Samsung"
   location         : "Dhaka, Bangladesh"
-  employer         : "Red Brick University"
+  employer         : "Samsung"
   uri              : # URL
   email            : "cseshahrukh@gmail.com" 
 
