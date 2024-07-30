@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I love teaching. That's why I involved myself in a renowned coaching center of Bangladesh. From the very beginning I was a Mathematics teacher there. But I also solved doubts in physics and chemistry also. 
 
 Heading 1
 ======
