@@ -17,5 +17,6 @@ Based in the vibrant city of Dhaka, Bangladesh, I thrive on solving complex prob
 Software Development: Crafting efficient and elegant code is my forte. I enjoy building scalable applications and exploring new frameworks.
 Data Science: I have a keen interest in data, and I love extracting meaningful insights from complex datasets.
 Technology Enthusiast: I stay updated with the latest trends and technologies, always eager to learn and adapt.
+
 🌐 Let's Connect!
 I'm always open to connecting with like-minded individuals, discussing innovative ideas, and exploring new opportunities. Feel free to reach out to me through the links provided, and let's create something amazing together!
