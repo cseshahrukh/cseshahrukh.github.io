@@ -66,4 +66,4 @@ redirect_from:
 
 ## Resume
 
-For a detailed overview of my professional experience and skills, you can view my [Resume (PDF)](../_files/Resume.pdf).
+For a detailed overview of my professional experience and skills, you can view my [Resume (PDF)](../files/Resume.pdf).
