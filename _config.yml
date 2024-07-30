@@ -24,10 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Md. Shahrukh Islam"
   pronouns         : # example: "she/her"  
-  bio              : |
-    CSE graduate from BUET  
-    Software engineer at Samsung  
-  bio              : Software Engineer at Samsung
+  bio              : "CSE graduate from BUET<br>Software engineer at Samsung"
   location         : "Dhaka, Bangladesh"
   employer         : "Samsung"
   uri              : # URL
