@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my corner of the web! I'm Md. Shahrukh Islam, a passionate software engineer currently working at Samsung, with a strong background in Computer Science and Engineering from Bangladesh University of Engineering and Technology. My journey in the tech world is driven by a deep curiosity and love for cutting-edge technologies, innovative solutions, and data-driven insights.
 
 🚀 A Bit About Me
-Based in the vibrant city of Dhaka, Bangladesh, I thrive on solving complex problems and creating impactful solutions. My professional experiences and academic pursuits have equipped me with a diverse skill set, ranging from full-stack development to machine learning and data analytics.
+Based in the vibrant city of Dhaka, Bangladesh, I thrive on solving complex problems and creating impactful solutions. My professional experiences and academic pursuits have equipped me with a diverse skill set, ranging from full-stack development to machine learning and data analytics. I'm interested to work in the fields of Systems, Networking, Security, Software Engineering and HCI. My current career goal is to pursue a Ph.D. in my field of interest.
 
 🎯 What I Do
 Software Development: Crafting efficient and elegant code is my forte. I enjoy building scalable applications and exploring new frameworks.
