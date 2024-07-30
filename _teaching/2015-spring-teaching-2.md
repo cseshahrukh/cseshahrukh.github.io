@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Math, Physics & Chemistry Instructor"
 collection: teaching
-type: "Workshop"
+type: "Private Tuition"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Offline Online Both"
+date: 2018-2024
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I love teaching. I have taught more than 10 kids as a private tutor. 
 
 Heading 1
 ======
