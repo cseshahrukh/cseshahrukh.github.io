@@ -1,4 +1,5 @@
 ---
+permalink: /markdown/
 layout: archive
 title: "CV"
 permalink: /cv/
