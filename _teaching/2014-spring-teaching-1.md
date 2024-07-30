@@ -1,14 +1,14 @@
 ---
-title: "Udvash Academic and Admission Care"
+title: "Teaching experience 1"
 collection: teaching
-type: "Coaching Center"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Dhaka Bangladesh"
-date: 2019-2024
-location: "Dhaka, Bangladesh"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-In udvash I have taken more than 500 classes. I worked there mainly a Mathematics instructor. Also I helped students in Physics and Chemistry when they had any doubt. 
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
