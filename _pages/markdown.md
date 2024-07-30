@@ -62,8 +62,8 @@ redirect_from:
 
 ## Service and Leadership
 
-* Currently signed in to 43 different Slack teams, actively participating in various discussions and providing technical support.
+* Currently signed in to 43 different Slack teams, actively participating in various discussions and prGoviding technical support.
 
 ## Resume
 
-For a detailed overview of my professional experience and skills, you can view my [Resume (PDF)](_files/Resume.pdf).
+For a detailed overview of my professional experience and skills, you can view my [Resume (PDF)](../_files/Resume.pdf).
