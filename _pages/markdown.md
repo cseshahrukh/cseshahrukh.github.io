@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Md. Shahrukh Islam"
 author_profile: true
 redirect_from: 
   - /md/
@@ -9,56 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* B.Sc. in Computer Science and Engineering, Bangladesh University of Engineering and Technology, 2024
+* **Bachelor of Science in Computer Science and Engineering**  
+  *Bangladesh University of Engineering and Technology (BUET)*  
+  *Graduation Year: 2024*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  During my time at BUET, I focused on acquiring a strong foundation in both theoretical and practical aspects of computer science. My coursework included subjects such as algorithms, data structures, operating systems, artificial intelligence, and software engineering. I also engaged in various projects and research activities, which enhanced my problem-solving skills and deepened my understanding of cutting-edge technologies.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Spring 2024: Academic Pages Collaborator**  
+  *Github University*  
+  *Duties included: Updates and improvements to the template*  
+  *Supervisor: The Users*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Current Position: Software Engineer at Samsung**  
+  As a software engineer at Samsung, I am involved in developing and maintaining high-quality software solutions. My role includes collaborating with cross-functional teams, implementing new features, and ensuring the overall performance and scalability of the applications.
+
+## Skills
+
+* **Programming Languages**  
+  Proficient in Python, JavaScript, and C++
+
+* **Web Development**  
+  * Frontend: React, HTML, CSS  
+  * Backend: Flask, Node.js
+
+* **Data Science and Machine Learning**  
+  * Experience with TensorFlow, Keras, and scikit-learn  
+  * Data analysis and visualization using Pandas and Matplotlib
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Talks
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html  %}
+{% endfor %}</ul>
+
+## Teaching
+
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Service and Leadership
+
+* Currently signed in to 43 different Slack teams, actively participating in various discussions and providing technical support.
+
+## Resume
+
+For a detailed overview of my professional experience and skills, you can view my [Resume (PDF)](_files/Resume.pdf).
