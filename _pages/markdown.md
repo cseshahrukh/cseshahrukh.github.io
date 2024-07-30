@@ -21,13 +21,17 @@ redirect_from:
 
 ## Work Experience
 
-* **Spring 2024: Academic Pages Collaborator**  
-  *Github University*  
-  *Duties included: Updates and improvements to the template*  
-  *Supervisor: The Users*
-
-* **Current Position: Software Engineer at Samsung**  
+* **Software Engineer at Samsung**  
   As a software engineer at Samsung, I am involved in developing and maintaining high-quality software solutions. My role includes collaborating with cross-functional teams, implementing new features, and ensuring the overall performance and scalability of the applications.
+
+* **Mathematics Instructor at Udvash**  
+  I love teaching so I involved myself in seasonal teaching. 
+
+* **Virtual Intern: MySoft Ltd**  
+  *Health data Analysis*  
+  *Duties included: Working with health data*  
+
+
 
 ## Skills
 
@@ -62,7 +66,7 @@ redirect_from:
 
 ## Service and Leadership
 
-* Currently signed in to 43 different Slack teams, actively participating in various discussions and prGoviding technical support.
+* I taught at Udvash more than 4 years. There I enriched my teaching skill. Moreover I worked in BUET Carrer Club, BUET Chess Club. 
 
 ## Resume
 
