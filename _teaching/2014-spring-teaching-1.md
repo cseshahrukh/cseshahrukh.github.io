@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Algorithm Engineering"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Tutorial on my undergraduate course"
+permalink: /teaching/2024-algo_engineering
+venue: "ComputeXpert (Youtube Channel)"
+date: 2024-01-01
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I really enjoyed my algorithm engineering course as well as its lab sessions. That's why I made some tutorials on those topis.
 
-Heading 1
-======
+[Watch the tutorial on ComputeXpert](https://www.youtube.com/@ComputeXperts1)
 
-Heading 2
-======
-
-Heading 3
-======
