@@ -67,6 +67,29 @@ redirect_from:
   * LinkedIn Course
   * Course Duration: 1 hour 57 minutes
 
+* **Writing a Tech Resume**  
+  * LinkedIn Course
+  * Course Duration: 55 minutes
+
+* **HerWILL's The Data Forge: Workshops on Decoding Data Insights and Impact, Intro to NLP Preprocessing and Classification using Supervised Learning**  
+  * HerWILL
+
+* **Competitive Programmer's Core Skills**  
+  * Coursera Course
+  * Offered by Saint Petersburg State University
+
+* **SD1x: Software Development Fundamentals**  
+  * edX Course
+  * Offered by University of Pennsylvania
+
+* **PY0101EN: Python Basics for Data Science**  
+  * Cognitive Class Course
+  * Offered by IBM
+
+* **Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming**  
+  * Coursera Course
+  * Offered by Stanford University
+
 
 ## Publications
 
