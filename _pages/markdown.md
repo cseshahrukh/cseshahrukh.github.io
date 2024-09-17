@@ -46,6 +46,28 @@ redirect_from:
   * Experience with TensorFlow, Keras, and scikit-learn  
   * Data analysis and visualization using Pandas and Matplotlib
 
+## Certifications
+* **NLP with Python for Machine Learning Essential Training**  
+  * LinkedIn Course
+  * Course Duration: 4 hours 14 minutes
+
+* **Executive Leadership(2019)**  
+  * LinkedIn Course
+  * Course Duration: 1 hour 19 minutes
+
+* **Programming Foundations: Fundamentals**  
+  * LinkedIn Course
+  * Course Duration: 2 hours 12 minutes
+
+* **Programming Foundations: Beyond the Fundamentals**  
+  * LinkedIn Course
+  * Course Duration: 2 hours 6 minutes
+
+* **Introduction to Career Skills in Software Development**  
+  * LinkedIn Course
+  * Course Duration: 1 hour 57 minutes
+
+
 ## Publications
 
 <!-- <ul>{% for post in site.publications reversed %}
