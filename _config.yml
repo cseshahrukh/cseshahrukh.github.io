@@ -24,9 +24,11 @@ author:
   avatar           : "srkprofile.jpg"
   name             : "Md Shahrukh Islam"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student & Graduate Research Assistant<br><a href='https://acyd.fiu.edu/'>ACyD Lab</a>, FIU"
+  bio              : "PhD student & Graduate Research Assistant<br><a href='https://acyd.fiu.edu/'>ACyD Lab</a>, <a href='https://www.fiu.edu/'>FIU</a>"
   location         : "Miami, Florida, USA"
+  location_url     : "https://www.google.com/maps/place/Miami,+FL,+USA"
   employer         : "Florida International University"
+  employer_url     : "https://www.fiu.edu/"
   uri              : # URL
   email            : "cseshahrukh@gmail.com" 
 

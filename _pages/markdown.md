@@ -14,7 +14,7 @@ redirect_from:
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * **Doctor of Philosophy (Ph.D.)**  
-  *Florida International University (FIU)*  
+  *[Florida International University (FIU)](https://www.fiu.edu/)*  
   *August 2025 – Present*
 
 * **Bachelor of Science in Computer Science and Engineering**  
@@ -25,7 +25,7 @@ redirect_from:
 
 ## Work Experience
 
-* **Graduate Research Assistant at [ACyD Lab](https://acyd.fiu.edu/), FIU**  
+* **Graduate Research Assistant at [ACyD Lab](https://acyd.fiu.edu/), [FIU](https://www.fiu.edu/)**  
   *August 2025 – Present*  
   My research covers quantum computing, quantum computing and security, autonomous vehicle security, drone security, and large language model (LLM) security.
 
