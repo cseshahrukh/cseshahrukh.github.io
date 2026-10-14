@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <div style="text-align: justify; font-size: 14px;">
-Welcome to my corner of the web! I'm Md Shahrukh Islam, a Ph.D. student and Graduate Research Assistant at the ACyD Lab, Florida International University (FIU). Before joining FIU in August 2025, I worked as a software engineer at Samsung. I hold a B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET). My journey in the tech world is driven by a deep curiosity and love for cutting-edge technologies, innovative solutions, and data-driven insights.
+Welcome to my corner of the web! I'm Md Shahrukh Islam, a Ph.D. student and Graduate Research Assistant at the <a href="https://acyd.fiu.edu/">ACyD Lab</a>, Florida International University (FIU). Before joining FIU in August 2025, I worked as a software engineer at Samsung. I hold a B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET). My journey in the tech world is driven by a deep curiosity and love for cutting-edge technologies, innovative solutions, and data-driven insights.
 </div>
 
 
 ## 🔬 Research Interests
 <div style="text-align: justify; font-size: 14px;">
-At the ACyD Lab, my research focuses on:
+At the <a href="https://acyd.fiu.edu/">ACyD Lab</a>, my research focuses on:
 <ul>
   <li>Quantum computing</li>
   <li>Quantum computing and security</li>

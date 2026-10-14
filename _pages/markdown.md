@@ -25,7 +25,7 @@ redirect_from:
 
 ## Work Experience
 
-* **Graduate Research Assistant at ACyD Lab, FIU**  
+* **Graduate Research Assistant at [ACyD Lab](https://acyd.fiu.edu/), FIU**  
   *August 2025 – Present*  
   My research covers quantum computing, quantum computing and security, autonomous vehicle security, drone security, and large language model (LLM) security.
 

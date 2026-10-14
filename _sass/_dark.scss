@@ -1,0 +1,207 @@
+/* ==========================================================================
+   DARK MODE
+   Applied when <html data-theme="dark"> (set by the toggle in the masthead)
+   ========================================================================== */
+
+$dark-bg                    : #1b1d21;
+$dark-bg-raised             : #24272c;
+$dark-bg-muted              : #2c3036;
+$dark-text                  : #d4d7db;
+$dark-text-muted            : #9aa1a8;
+$dark-heading               : #eef0f2;
+$dark-border                : #3a3f46;
+$dark-link                  : #6cc4dd;
+$dark-link-hover            : #9bd8ea;
+
+/* theme toggle button (both themes) */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin-left: 1rem;
+  padding: 0;
+  border: 1px solid $border-color;
+  border-radius: 50%;
+  background: transparent;
+  color: $masthead-link-color;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: $global-transition;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+    border-color: $masthead-link-color;
+  }
+
+  .theme-toggle__sun { display: none; }
+  .theme-toggle__moon { display: inline; }
+}
+
+/* keep the toggle visible beside the nav instead of collapsing into the menu */
+.masthead__menu {
+  display: flex;
+  align-items: center;
+
+  #site-nav {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  background: $dark-bg;
+
+  body {
+    background: $dark-bg;
+    color: $dark-text;
+  }
+
+  h1, h2, h3, h4, h5, h6,
+  .page__title {
+    color: $dark-heading;
+  }
+
+  a {
+    color: $dark-link;
+
+    &:hover { color: $dark-link-hover; }
+    &:visited { color: mix(#fff, $dark-link, 15%); }
+  }
+
+  blockquote { border-left-color: $dark-text-muted; }
+
+  hr { border-top-color: $dark-border; }
+
+  p > code,
+  a > code,
+  li > code,
+  figcaption > code,
+  td > code,
+  pre,
+  .highlight,
+  div.highlighter-rouge,
+  figure.highlight {
+    background: $dark-bg-raised;
+    border-color: $dark-border;
+    color: $dark-text;
+  }
+
+  figcaption { color: $dark-text-muted; }
+
+  table, th, td { border-color: $dark-border; }
+  thead, th { background: $dark-bg-raised; color: $dark-heading; }
+  tr:nth-child(even) td { background: rgba(255, 255, 255, 0.02); }
+
+  /* masthead and navigation */
+  .masthead {
+    background: $dark-bg;
+    border-bottom-color: $dark-border;
+  }
+
+  .greedy-nav {
+    background: $dark-bg;
+
+    a { color: $dark-text-muted; }
+    a:hover { color: $dark-heading; }
+
+    .visible-links a:before { background: $dark-link; }
+
+    .hidden-links {
+      background: $dark-bg-raised;
+      border-color: $dark-border;
+
+      a:hover { color: $dark-heading; background: $dark-bg-muted; }
+      &:before { border-color: $dark-border transparent; }
+      &:after { border-color: $dark-bg-raised transparent; }
+    }
+  }
+
+  .theme-toggle {
+    color: #f5c451;
+    border-color: $dark-border;
+
+    &:hover { border-color: #f5c451; }
+
+    .theme-toggle__sun { display: inline; }
+    .theme-toggle__moon { display: none; }
+  }
+
+  /* sidebar */
+  .author__name { color: $dark-heading; }
+  .author__bio, .author__urls { color: $dark-text; }
+
+  .author__urls {
+    background: $dark-bg-raised;
+    border-color: $dark-border;
+
+    &:before { border-color: $dark-border transparent; }
+    &:after { border-color: $dark-bg-raised transparent; }
+
+    @include breakpoint($large) {
+      background: transparent;
+    }
+
+    a { color: $dark-text; }
+  }
+
+  .author__avatar img { border-color: $dark-border; }
+
+  /* page parts */
+  .page__content h2,
+  .page__share,
+  .page__related,
+  .page__comments-title { border-color: $dark-border; }
+
+  .page__meta,
+  .archive__item-excerpt,
+  .page__date { color: $dark-text-muted; }
+
+  .archive__item-title a { color: $dark-heading; }
+
+  .page__comments-form { background: $dark-bg-raised; }
+
+  .pagination a,
+  .pagination--pager {
+    background: $dark-bg-raised;
+    border-color: $dark-border;
+    color: $dark-text;
+  }
+
+  .nav__list,
+  .toc {
+    background: $dark-bg-raised;
+    border-color: $dark-border;
+  }
+
+  .toc .nav__title { background: $dark-bg-muted; }
+  .toc__menu a { color: $dark-text; border-color: $dark-border; }
+  .toc__menu a:hover { color: $dark-heading; background: $dark-bg-muted; }
+
+  .notice,
+  .notice--primary,
+  .notice--info,
+  .notice--warning,
+  .notice--success,
+  .notice--danger {
+    background-color: $dark-bg-raised;
+    color: $dark-text;
+  }
+
+  /* footer */
+  .page__footer {
+    background-color: $dark-bg-raised;
+    border-top-color: $dark-border;
+    color: $dark-text-muted;
+
+    a { color: $dark-text; }
+  }
+
+  input, textarea, select {
+    background: $dark-bg-raised;
+    border-color: $dark-border;
+    color: $dark-text;
+  }
+}
