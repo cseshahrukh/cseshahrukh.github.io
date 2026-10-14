@@ -15,7 +15,8 @@ redirect_from:
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * **Doctor of Philosophy (Ph.D.)**  
   *[Florida International University (FIU)](https://www.fiu.edu/)*  
-  *August 2025 – Present*
+  *August 2025 – Present*  
+  Advisor: Dr. Mohammad Ashiqur Rahman
 
 * **Bachelor of Science in Computer Science and Engineering**  
   *Bangladesh University of Engineering and Technology (BUET)*  
@@ -30,7 +31,7 @@ redirect_from:
   My research covers quantum computing, quantum computing and security, autonomous vehicle security, drone security, and large language model (LLM) security.
 
 * **Software Engineer at Samsung**  
-  *Until July 2025*  
+  *June 2024 – July 2025*  
   As a software engineer at Samsung, I developed and maintained high-quality software solutions. My role included collaborating with cross-functional teams, implementing new features, and ensuring the overall performance and scalability of the applications.
 
 * **Mathematics Instructor at Udvash**  

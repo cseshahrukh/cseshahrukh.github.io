@@ -1,4 +1,4 @@
-{% if site.analytics.provider and page.analytics != false %}
+{% if site.analytics.provider and site.analytics.provider != "false" and site.analytics.google.tracking_id and page.analytics != false %}
 
 {% case site.analytics.provider %}
 {% when "google" %}
