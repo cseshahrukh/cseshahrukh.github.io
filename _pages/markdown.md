@@ -102,9 +102,12 @@ redirect_from:
 
 ## Publications
 
-<!-- <ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul> -->
+<ul>{% for post in site.publications reversed %}
+  <li>
+    <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a><br>
+    <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{% if post.paperurl %} · <a href="{{ post.paperurl }}">Paper</a>{% endif %}
+  </li>
+{% endfor %}</ul>
 
 ## Talks
 
