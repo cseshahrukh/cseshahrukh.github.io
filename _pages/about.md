@@ -8,13 +8,26 @@ redirect_from:
 ---
 
 <div style="text-align: justify; font-size: 14px;">
-Welcome to my corner of the web! I'm Md Shahrukh Islam, a passionate software engineer currently working at Samsung, with a strong background in Computer Science and Engineering from Bangladesh University of Engineering and Technology. My journey in the tech world is driven by a deep curiosity and love for cutting-edge technologies, innovative solutions, and data-driven insights.
+Welcome to my corner of the web! I'm Md Shahrukh Islam, a Ph.D. student and Graduate Research Assistant at the ACyD Lab, Florida International University (FIU). Before joining FIU in August 2025, I worked as a software engineer at Samsung. I hold a B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET). My journey in the tech world is driven by a deep curiosity and love for cutting-edge technologies, innovative solutions, and data-driven insights.
+</div>
+
+
+## 🔬 Research Interests
+<div style="text-align: justify; font-size: 14px;">
+At the ACyD Lab, my research focuses on:
+<ul>
+  <li>Quantum computing</li>
+  <li>Quantum computing and security</li>
+  <li>Autonomous vehicle security</li>
+  <li>Drone security</li>
+  <li>Large language model (LLM) security</li>
+</ul>
 </div>
 
 
 ## 🚀 A Bit About Me   
 <div style="text-align: justify; font-size: 14px;">
-Based in the vibrant city of Dhaka, Bangladesh, I thrive on solving complex problems and creating impactful solutions. My professional experiences and academic pursuits have equipped me with a diverse skill set, ranging from full-stack development to machine learning and data analytics. I'm interested to work in the fields of Systems, Networking, Security, Software Engineering and HCI. My current career goal is to pursue a Ph.D. in my field of interest.
+Now based in Miami, Florida, I thrive on solving complex problems and creating impactful solutions. My professional experiences and academic pursuits have equipped me with a diverse skill set, ranging from full-stack development to machine learning and data analytics. I'm broadly interested in Systems, Networking, Security, Software Engineering and HCI.
 </div>
 
 

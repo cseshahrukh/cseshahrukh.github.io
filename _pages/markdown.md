@@ -13,6 +13,10 @@ redirect_from:
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
+* **Doctor of Philosophy (Ph.D.)**  
+  *Florida International University (FIU)*  
+  *August 2025 – Present*
+
 * **Bachelor of Science in Computer Science and Engineering**  
   *Bangladesh University of Engineering and Technology (BUET)*  
   *Graduation Year: 2024*
@@ -21,8 +25,13 @@ redirect_from:
 
 ## Work Experience
 
+* **Graduate Research Assistant at ACyD Lab, FIU**  
+  *August 2025 – Present*  
+  My research covers quantum computing, quantum computing and security, autonomous vehicle security, drone security, and large language model (LLM) security.
+
 * **Software Engineer at Samsung**  
-  As a software engineer at Samsung, I am involved in developing and maintaining high-quality software solutions. My role includes collaborating with cross-functional teams, implementing new features, and ensuring the overall performance and scalability of the applications.
+  *Until July 2025*  
+  As a software engineer at Samsung, I developed and maintained high-quality software solutions. My role included collaborating with cross-functional teams, implementing new features, and ensuring the overall performance and scalability of the applications.
 
 * **Mathematics Instructor at Udvash**  
   I love teaching so I involved myself in seasonal teaching. 
