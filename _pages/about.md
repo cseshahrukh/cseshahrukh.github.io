@@ -25,6 +25,20 @@ At the <a href="https://acyd.fiu.edu/">ACyD Lab</a>, my research focuses on:
 </div>
 
 
+## 📄 Publications
+<div style="text-align: justify; font-size: 14px;">
+<ul>
+{% for post in site.publications reversed %}
+  <li>
+    <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a><br>
+    <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{% if post.paperurl %} · <a href="{{ post.paperurl }}">Paper</a>{% endif %}
+  </li>
+{% endfor %}
+</ul>
+See all on the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.
+</div>
+
+
 ## 🚀 A Bit About Me   
 <div style="text-align: justify; font-size: 14px;">
 Now based in <a href="https://www.google.com/maps/place/Miami,+FL,+USA">Miami, Florida</a>, I thrive on solving complex problems and creating impactful solutions. My professional experiences and academic pursuits have equipped me with a diverse skill set, ranging from full-stack development to machine learning and data analytics. I'm broadly interested in Systems, Networking, Security, Software Engineering and HCI.
