@@ -18,6 +18,14 @@ redirect_from:
   *August 2025 – Present*  
   Advisor: Dr. Mohammad Ashiqur Rahman
 
+  **Relevant Coursework**
+  * CAP 5602: Introduction to Artificial Intelligence — Dr. [Xian Su](https://scholar.google.com/citations?user=t1RAFfkAAAAJ)
+  * Advanced Topics in Machine Learning — Dr. Xuyu Wang
+  * Security and Privacy: Attacks and Defenses — Dr. Bogdan Carbunar
+  * COP 5614: Operating Systems — Dr. Raju Rangaswami
+  * COT 5310: Theory of Computation — Dr. Leonardo Bobadilla
+  * COT 6405: Analysis of Algorithms — Dr. S. S. Iyengar
+
 * **Bachelor of Science in Computer Science and Engineering**  
   *Bangladesh University of Engineering and Technology (BUET)*  
   *Graduation Year: 2024*
@@ -30,7 +38,7 @@ redirect_from:
   *August 2025 – Present*  
   My research covers quantum computing, quantum computing and security, autonomous vehicle security, drone security, and large language model (LLM) security.
 
-* **Software Engineer at Samsung**  
+* **Software Engineer at [Samsung R&D](https://research.samsung.com/srbd)**  
   *June 2024 – July 2025*  
   As a software engineer at Samsung, I developed and maintained high-quality software solutions. My role included collaborating with cross-functional teams, implementing new features, and ensuring the overall performance and scalability of the applications.
 

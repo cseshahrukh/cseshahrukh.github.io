@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify; font-size: 14px;">
-Welcome to my corner of the web! I'm Md Shahrukh Islam, a Ph.D. student and Graduate Research Assistant at the <a href="https://acyd.fiu.edu/">ACyD Lab</a>, <a href="https://www.fiu.edu/">Florida International University (FIU)</a>, advised by Dr. Mohammad Ashiqur Rahman. Before joining FIU in August 2025, I worked as a software engineer at Samsung. I hold a B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET). My journey in the tech world is driven by a deep curiosity and love for cutting-edge technologies, innovative solutions, and data-driven insights.
+Welcome to my corner of the web! I'm Md Shahrukh Islam, a Ph.D. student and Graduate Research Assistant at the <a href="https://acyd.fiu.edu/">ACyD Lab</a>, <a href="https://www.fiu.edu/">Florida International University (FIU)</a>, advised by Dr. Mohammad Ashiqur Rahman. Before joining FIU in August 2025, I worked as a software engineer at <a href="https://research.samsung.com/srbd">Samsung R&amp;D</a>. I hold a B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET). My journey in the tech world is driven by a deep curiosity and love for cutting-edge technologies, innovative solutions, and data-driven insights.
 </div>
 
 
@@ -16,7 +16,7 @@ Welcome to my corner of the web! I'm Md Shahrukh Islam, a Ph.D. student and Grad
 <div style="font-size: 14px;">
 <ul>
   <li><strong>Aug 2025:</strong> Joined the <a href="https://acyd.fiu.edu/">ACyD Lab</a> at <a href="https://www.fiu.edu/">FIU</a> as a PhD student</li>
-  <li><strong>Jun 2024:</strong> Joined Samsung R&amp;D as Software Engineer</li>
+  <li><strong>Jun 2024:</strong> Joined <a href="https://research.samsung.com/srbd">Samsung R&amp;D</a> as Software Engineer</li>
 </ul>
 </div>
 
